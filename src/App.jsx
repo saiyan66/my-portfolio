@@ -1,7 +1,7 @@
 import React from "react";
 // import Header from "./components/header";
-import Hero from "./components/hero";
-import Dashboard from "./components/dashboard";
+import Hero from "./components/Hero";
+import Dashboard from "./components/Dashboard";
 
 function App() {
 
